@@ -1,4 +1,4 @@
-# News_impact_on_stcok_market
+# News_impact_on_stock_market
 
 This github repo contains code for calculation news influence on american stock. The project is bachelor final thesis of Petr Sokerin. 
 Project was realised in March-May 2021. 
